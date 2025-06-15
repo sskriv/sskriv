@@ -2,7 +2,7 @@
 
 ### About
 
-Web application developer
+- Web application developer
 - Skills: Go
 - Works: Network camera application development
 
